@@ -1,2 +1,2 @@
 # ML
-Practice Analytics
+Machine learning Handson Teaching 
