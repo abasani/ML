@@ -1,4 +1,4 @@
-# Machine learning concepts - By AndrewNg 
+# Machine learning concepts
 - Octave/MATLAB Programming 
 - Statistics
 - Probability
